@@ -6,6 +6,6 @@
 
 In one of [Frank Harrel's blog posts at Stastical Thinking]("https://www.fharrell.com/post/stat-ml/") makes a clear and intriguing distinction between these two which I defintiley recommend reading it. 
 
-
+ 
 I will delve into each of these methods and their differences in specific examples, and make conclusions based on their assumptions.
 
