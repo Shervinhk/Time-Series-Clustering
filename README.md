@@ -5,8 +5,9 @@
 2. **Machine Learning Methods**: This is the area of unsuprevised time series clustering methods. These method make no specific assumptions on the distrubtion of the data and attempts to cluster the data based on the learning algorithms.
 
 In one of [Frank Harrel's blog posts at Stastical Thinking](https://www.fharrell.com/post/stat-ml/) makes a clear and intriguing distinction between these two which I defintiley recommend reading it. 
-
+However this ditinction also extends to time series analysis and it's important to know what to use in which setting.
  
 I will delve into each of these methods and their differences in specific examples, and make conclusions based on their assumptions.
+The main project that I used to work with is not publicly available, however I will work with a specific dataset that is publicly availble and the results can be reproduced. 
 
 
