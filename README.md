@@ -23,6 +23,16 @@ Because of the afforementioned points, it is important to understand thoroughly 
 # Time Series Clustering and Longitudinal Analysis
 There are several different methods of time series analysis which are grouped into two major categories:
 
-1. **Longitudinal Analysis**: Models such as Growth Mixture Models (GMM), Latent Class Growth Analysis (LCGA), Fixed and Random Effects Modeling, AutoRegressive Integrated Moving Average (ARIMA), etc.
-2. **Time Series Clustering**: First, finding a distance measure between various time series such as Dynamic Time Warping (DTW) and then using a clustering method such as hierchichal clustering or KMeans. However, as we will elaborate KMeans may not be the ideal approach. 
+1. **Longitudinal Analysis**: Models such as Growth Mixture Models (GMM), Latent Class Growth Analysis (LCGA), Fixed and Random Effects Modeling, and AutoRegressive Integrated Moving Average (ARIMA) which the latter one is modeling time series data and the former ones for finding subpopulations and clustering.
+2. **Time Series Clustering**: First, finding a distance measure between various time series such as Dynamic Time Warping (DTW) and then using a clustering method such as hierchichal clustering or KMeans. However, as we will elaborate KMeans may not be the ideal approach. Other methods include: Density Based Spatial Clustering (DBSCAN), and k-Shape clustering.
+
+# Pipeline
+We will use a specific dataset that we know has several underlying subpopulations and will go through the following pipeline:
+1. Preprocessing and preparing the data
+2. Data visulisation to understand the data
+2. Implementation of longitudinal and time series clustering methods
+
+All of these steps is elaborated in the Jupyter notebook of this repository.
+
+
 
