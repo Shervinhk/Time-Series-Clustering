@@ -14,7 +14,7 @@ This repository is ideal for people who want to understand how to deal with diff
 
 # Complexity of Times Series
 There are several underlying complexities with working with time series data such as:
-1. **Irregularity in Time Steps**: in most real world cases the data is not collected in fixed time intervals, therefore it is important to take this into consideration, if possible
+1. **Irregularity in Time Steps**: in most real world cases the data is not collected in fixed time intervals, therefore it is important to take this into consideration, if possible.
 2. **Missing Data**: some time series will have considerable missing data and various approaches can be used to overcome this problem.
 3. **Dealing with Outliers**: in some settings it is important to have a good domain knowledge to distinguish between a real outlier and points that are at the edge of the valid range. For instance, in healthcare some patients who are clinically important might be wrongly excluded because they can be outliers. This is more evident in time series data as there are many subpopulations each with their own valid ranges. 
 
@@ -28,9 +28,9 @@ There are several different methods of time series analysis which are grouped in
 
 # Pipeline
 We will use a specific dataset that we know has several underlying subpopulations and will go through the following pipeline:
-1. Preprocessing and preparing the data
-2. Data visulisation to understand the data
-2. Implementation of longitudinal and time series clustering methods
+1. Preprocessing and preparing the data.
+2. Data visulisation to understand the data.
+2. Implementation of longitudinal and time series clustering methods.
 
 All of these steps is elaborated in the Jupyter notebook of this repository.
 
