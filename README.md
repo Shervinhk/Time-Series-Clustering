@@ -14,9 +14,9 @@ This repository is ideal for people who want to understand how to deal with diff
 
 # Complexity of Times Series
 There are several underlying complexities with working with time series data such as:
-1. ** Irregularity in Time Steps**: in most real world cases the data is not collected in fixed time intervals, therefore it is important to take this into consideration, if possible
-2. ** Missing Data**: some time series will have considerable missing data and various approaches can be used to overcome this problem.
-3. ** Dealing with Outliers**: in some settings it is important to have a good domain knowledge to distinguish between a real outlier and points that are at the edge of the valid range. For instance, in healthcare some patients who are clinically important might be wrongly excluded because they can be outliers. This is more evident in time series data as there are many subpopulations each with their own valid ranges. 
+1. **Irregularity in Time Steps**: in most real world cases the data is not collected in fixed time intervals, therefore it is important to take this into consideration, if possible
+2. **Missing Data**: some time series will have considerable missing data and various approaches can be used to overcome this problem.
+3. **Dealing with Outliers**: in some settings it is important to have a good domain knowledge to distinguish between a real outlier and points that are at the edge of the valid range. For instance, in healthcare some patients who are clinically important might be wrongly excluded because they can be outliers. This is more evident in time series data as there are many subpopulations each with their own valid ranges. 
 
 Because of the afforementioned points, it is important to understand thoroughly what method would work best and would yield the most accurate conclusion with least amount of confcounding.
 
