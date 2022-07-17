@@ -9,3 +9,5 @@ In one of [Frank Harrel's blog posts at Stastical Thinking]("https://www.fharrel
  
 I will delve into each of these methods and their differences in specific examples, and make conclusions based on their assumptions.
 
+
+http://www.google.fr/
